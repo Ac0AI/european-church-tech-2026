@@ -109,6 +109,14 @@ See [`FAQ.md`](FAQ.md) for answers to:
 - *GDPR / privacy?*
 - *Can I get the raw HTML you scraped?*
 
+## Mirrors
+
+This dataset is also published on:
+
+- **Kaggle:** https://www.kaggle.com/datasets/gospelchannel/european-church-tech-2026-observed-data
+
+(Zenodo with DOI + Hugging Face mirrors coming.)
+
 ## Acknowledgements
 
 Built on data collected at GospelChannel.com — a public catalog of churches where pastors can claim and improve their listing. Released openly so others can replicate, critique, or build on the work.
