@@ -1,0 +1,139 @@
+country,platform,count
+Austria,WordPress,17
+Austria,Unknown,5
+Austria,Squarespace,3
+Belgium,WordPress,15
+Belgium,Unknown,5
+Belgium,Wix,4
+Belgium,Subsplash,2
+Belgium,Webflow,2
+Belgium,Squarespace,1
+Czech Republic,WordPress,10
+Czech Republic,Unknown,3
+Czech Republic,Squarespace,3
+Czech Republic,Joomla,3
+Czech Republic,Wix,1
+Denmark,WordPress,38
+Denmark,Unknown,28
+Denmark,Wix,5
+Denmark,Webflow,3
+Denmark,Squarespace,3
+Denmark,Ghost,1
+Finland,WordPress,24
+Finland,Unknown,18
+Finland,Wix,7
+Finland,Squarespace,2
+Finland,HubSpot CMS,1
+France,Unknown,732
+France,WordPress,726
+France,Wix,133
+France,Joomla,41
+France,Squarespace,20
+France,Drupal,7
+France,Gatsby,4
+France,Next.js,4
+France,Webflow,2
+France,Framer,1
+France,Nuxt,1
+France,Shopify,1
+France,Subsplash,1
+France,Ekklesia,1
+Germany,WordPress,1046
+Germany,Unknown,776
+Germany,Joomla,179
+Germany,Wix,108
+Germany,Squarespace,33
+Germany,Webflow,17
+Germany,Drupal,14
+Germany,Nuxt,6
+Germany,Next.js,5
+Germany,Framer,3
+Germany,HubSpot CMS,1
+Germany,Planningcenter,1
+Germany,Ekklesia,1
+Greece,Unknown,9
+Greece,Wix,5
+Greece,Squarespace,4
+Greece,Subsplash,2
+Greece,WordPress,1
+Hungary,Unknown,10
+Hungary,WordPress,5
+Hungary,Subsplash,2
+Ireland,WordPress,13
+Ireland,Unknown,10
+Ireland,Wix,3
+Ireland,Squarespace,3
+Ireland,Subsplash,1
+Ireland,Ekklesia,1
+Ireland,Next.js,1
+Italy,WordPress,61
+Italy,Unknown,25
+Italy,Squarespace,6
+Italy,Joomla,4
+Italy,Wix,2
+Netherlands,WordPress,43
+Netherlands,Unknown,12
+Netherlands,Wix,5
+Netherlands,Squarespace,3
+Netherlands,Joomla,1
+Norway,Unknown,125
+Norway,WordPress,75
+Norway,Wix,24
+Norway,Webflow,16
+Norway,Squarespace,13
+Norway,Next.js,5
+Norway,Joomla,1
+Norway,Framer,1
+Norway,Drupal,1
+Norway,Planningcenter,1
+Poland,WordPress,14
+Poland,Unknown,8
+Poland,Squarespace,7
+Poland,Wix,6
+Poland,Next.js,2
+Portugal,Unknown,8
+Portugal,WordPress,5
+Portugal,Wix,1
+Spain,WordPress,422
+Spain,Unknown,402
+Spain,Wix,47
+Spain,Next.js,12
+Spain,Joomla,8
+Spain,Squarespace,7
+Spain,Gatsby,2
+Spain,Nuxt,2
+Spain,Drupal,2
+Spain,Webflow,2
+Spain,Subsplash,1
+Sweden,WordPress,426
+Sweden,Unknown,334
+Sweden,Wix,39
+Sweden,Squarespace,28
+Sweden,Joomla,9
+Sweden,Drupal,5
+Sweden,Webflow,4
+Sweden,Next.js,3
+Sweden,HubSpot CMS,1
+Sweden,Gatsby,1
+Switzerland,WordPress,170
+Switzerland,Unknown,91
+Switzerland,Wix,24
+Switzerland,Squarespace,8
+Switzerland,Joomla,6
+Switzerland,Drupal,4
+Switzerland,Webflow,2
+Switzerland,Planningcenter,1
+Switzerland,Next.js,1
+United Kingdom,Unknown,504
+United Kingdom,WordPress,493
+United Kingdom,Squarespace,225
+United Kingdom,Wix,158
+United Kingdom,Drupal,71
+United Kingdom,Webflow,14
+United Kingdom,Joomla,13
+United Kingdom,Next.js,11
+United Kingdom,Subsplash,2
+United Kingdom,Nuxt,2
+United Kingdom,Ghost,1
+United Kingdom,Faithlife,1
+United Kingdom,Planningcenter,1

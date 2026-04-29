@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "European Church Tech 2026: an observed-data dataset on digital adoption across 12,624 European churches"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - name: "GospelChannel"
+url: "https://gospelchannel.com/european-church-tech-2026"
+repository-code: "https://github.com/gospelchannel/european-church-tech-2026"
+license: CC-BY-4.0
+date-released: 2026-04-29
+keywords:
+  - church
+  - religion
+  - digital adoption
+  - europe
+  - cms detection
+  - observed data
+  - open data

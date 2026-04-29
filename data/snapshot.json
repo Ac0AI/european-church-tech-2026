@@ -1,0 +1,968 @@
+{
+  "generatedAt": "2026-04-29T07:28:22.365Z",
+  "version": "2026-04-29",
+  "methodology": "Observed signals from public church URLs and pages. No surveys. Coverage = number of churches with detected signal / total mapped churches.",
+  "license": "CC-BY-4.0",
+  "source": "https://gospelchannel.com/european-church-tech-2026",
+  "repository": "https://github.com/gospelchannel/european-church-tech-2026",
+  "countries": [
+    {
+      "country": "Spain",
+      "total_churches": 2764,
+      "with_website": 907,
+      "with_cms_detected": 907,
+      "with_facebook": 502,
+      "with_youtube": 549,
+      "with_livestream": 210,
+      "pct_website": 32.8,
+      "pct_cms_detected": 32.8,
+      "pct_facebook": 18.2,
+      "pct_youtube": 19.9,
+      "pct_livestream": 7.6
+    },
+    {
+      "country": "France",
+      "total_churches": 2611,
+      "with_website": 1697,
+      "with_cms_detected": 1674,
+      "with_facebook": 691,
+      "with_youtube": 604,
+      "with_livestream": 181,
+      "pct_website": 65,
+      "pct_cms_detected": 64.1,
+      "pct_facebook": 26.5,
+      "pct_youtube": 23.1,
+      "pct_livestream": 6.9
+    },
+    {
+      "country": "Germany",
+      "total_churches": 2513,
+      "with_website": 2191,
+      "with_cms_detected": 2190,
+      "with_facebook": 833,
+      "with_youtube": 1001,
+      "with_livestream": 517,
+      "pct_website": 87.2,
+      "pct_cms_detected": 87.1,
+      "pct_facebook": 33.1,
+      "pct_youtube": 39.8,
+      "pct_livestream": 20.6
+    },
+    {
+      "country": "United Kingdom",
+      "total_churches": 1567,
+      "with_website": 1496,
+      "with_cms_detected": 1496,
+      "with_facebook": 1309,
+      "with_youtube": 1117,
+      "with_livestream": 303,
+      "pct_website": 95.5,
+      "pct_cms_detected": 95.5,
+      "pct_facebook": 83.5,
+      "pct_youtube": 71.3,
+      "pct_livestream": 19.3
+    },
+    {
+      "country": "Sweden",
+      "total_churches": 1034,
+      "with_website": 885,
+      "with_cms_detected": 850,
+      "with_facebook": 514,
+      "with_youtube": 270,
+      "with_livestream": 98,
+      "pct_website": 85.6,
+      "pct_cms_detected": 82.2,
+      "pct_facebook": 49.7,
+      "pct_youtube": 26.1,
+      "pct_livestream": 9.5
+    },
+    {
+      "country": "Italy",
+      "total_churches": 1002,
+      "with_website": 98,
+      "with_cms_detected": 98,
+      "with_facebook": 72,
+      "with_youtube": 60,
+      "with_livestream": 22,
+      "pct_website": 9.8,
+      "pct_cms_detected": 9.8,
+      "pct_facebook": 7.2,
+      "pct_youtube": 6,
+      "pct_livestream": 2.2
+    },
+    {
+      "country": "Norway",
+      "total_churches": 406,
+      "with_website": 263,
+      "with_cms_detected": 262,
+      "with_facebook": 174,
+      "with_youtube": 62,
+      "with_livestream": 2,
+      "pct_website": 64.8,
+      "pct_cms_detected": 64.5,
+      "pct_facebook": 42.9,
+      "pct_youtube": 15.3,
+      "pct_livestream": 0.5
+    },
+    {
+      "country": "Switzerland",
+      "total_churches": 310,
+      "with_website": 307,
+      "with_cms_detected": 307,
+      "with_facebook": 127,
+      "with_youtube": 156,
+      "with_livestream": 71,
+      "pct_website": 99,
+      "pct_cms_detected": 99,
+      "pct_facebook": 41,
+      "pct_youtube": 50.3,
+      "pct_livestream": 22.9
+    },
+    {
+      "country": "Denmark",
+      "total_churches": 79,
+      "with_website": 78,
+      "with_cms_detected": 78,
+      "with_facebook": 65,
+      "with_youtube": 29,
+      "with_livestream": 1,
+      "pct_website": 98.7,
+      "pct_cms_detected": 98.7,
+      "pct_facebook": 82.3,
+      "pct_youtube": 36.7,
+      "pct_livestream": 1.3
+    },
+    {
+      "country": "Netherlands",
+      "total_churches": 69,
+      "with_website": 64,
+      "with_cms_detected": 64,
+      "with_facebook": 58,
+      "with_youtube": 54,
+      "with_livestream": 29,
+      "pct_website": 92.8,
+      "pct_cms_detected": 92.8,
+      "pct_facebook": 84.1,
+      "pct_youtube": 78.3,
+      "pct_livestream": 42
+    },
+    {
+      "country": "Finland",
+      "total_churches": 54,
+      "with_website": 52,
+      "with_cms_detected": 52,
+      "with_facebook": 36,
+      "with_youtube": 31,
+      "with_livestream": 6,
+      "pct_website": 96.3,
+      "pct_cms_detected": 96.3,
+      "pct_facebook": 66.7,
+      "pct_youtube": 57.4,
+      "pct_livestream": 11.1
+    },
+    {
+      "country": "Poland",
+      "total_churches": 39,
+      "with_website": 37,
+      "with_cms_detected": 37,
+      "with_facebook": 32,
+      "with_youtube": 25,
+      "with_livestream": 13,
+      "pct_website": 94.9,
+      "pct_cms_detected": 94.9,
+      "pct_facebook": 82.1,
+      "pct_youtube": 64.1,
+      "pct_livestream": 33.3
+    },
+    {
+      "country": "Ireland",
+      "total_churches": 34,
+      "with_website": 32,
+      "with_cms_detected": 32,
+      "with_facebook": 20,
+      "with_youtube": 18,
+      "with_livestream": 3,
+      "pct_website": 94.1,
+      "pct_cms_detected": 94.1,
+      "pct_facebook": 58.8,
+      "pct_youtube": 52.9,
+      "pct_livestream": 8.8
+    },
+    {
+      "country": "Belgium",
+      "total_churches": 34,
+      "with_website": 29,
+      "with_cms_detected": 29,
+      "with_facebook": 25,
+      "with_youtube": 20,
+      "with_livestream": 8,
+      "pct_website": 85.3,
+      "pct_cms_detected": 85.3,
+      "pct_facebook": 73.5,
+      "pct_youtube": 58.8,
+      "pct_livestream": 23.5
+    },
+    {
+      "country": "Austria",
+      "total_churches": 25,
+      "with_website": 25,
+      "with_cms_detected": 25,
+      "with_facebook": 20,
+      "with_youtube": 17,
+      "with_livestream": 7,
+      "pct_website": 100,
+      "pct_cms_detected": 100,
+      "pct_facebook": 80,
+      "pct_youtube": 68,
+      "pct_livestream": 28
+    },
+    {
+      "country": "Greece",
+      "total_churches": 25,
+      "with_website": 21,
+      "with_cms_detected": 21,
+      "with_facebook": 18,
+      "with_youtube": 13,
+      "with_livestream": 1,
+      "pct_website": 84,
+      "pct_cms_detected": 84,
+      "pct_facebook": 72,
+      "pct_youtube": 52,
+      "pct_livestream": 4
+    },
+    {
+      "country": "Czech Republic",
+      "total_churches": 21,
+      "with_website": 20,
+      "with_cms_detected": 20,
+      "with_facebook": 18,
+      "with_youtube": 15,
+      "with_livestream": 6,
+      "pct_website": 95.2,
+      "pct_cms_detected": 95.2,
+      "pct_facebook": 85.7,
+      "pct_youtube": 71.4,
+      "pct_livestream": 28.6
+    },
+    {
+      "country": "Hungary",
+      "total_churches": 21,
+      "with_website": 17,
+      "with_cms_detected": 17,
+      "with_facebook": 10,
+      "with_youtube": 10,
+      "with_livestream": 4,
+      "pct_website": 81,
+      "pct_cms_detected": 81,
+      "pct_facebook": 47.6,
+      "pct_youtube": 47.6,
+      "pct_livestream": 19
+    },
+    {
+      "country": "Portugal",
+      "total_churches": 16,
+      "with_website": 14,
+      "with_cms_detected": 14,
+      "with_facebook": 12,
+      "with_youtube": 4,
+      "with_livestream": 5,
+      "pct_website": 87.5,
+      "pct_cms_detected": 87.5,
+      "pct_facebook": 75,
+      "pct_youtube": 25,
+      "pct_livestream": 31.3
+    }
+  ],
+  "platformsByCountry": [
+    {
+      "country": "Austria",
+      "platform": "WordPress",
+      "count": 17
+    },
+    {
+      "country": "Austria",
+      "platform": "Unknown",
+      "count": 5
+    },
+    {
+      "country": "Austria",
+      "platform": "Squarespace",
+      "count": 3
+    },
+    {
+      "country": "Belgium",
+      "platform": "WordPress",
+      "count": 15
+    },
+    {
+      "country": "Belgium",
+      "platform": "Unknown",
+      "count": 5
+    },
+    {
+      "country": "Belgium",
+      "platform": "Wix",
+      "count": 4
+    },
+    {
+      "country": "Belgium",
+      "platform": "Subsplash",
+      "count": 2
+    },
+    {
+      "country": "Belgium",
+      "platform": "Webflow",
+      "count": 2
+    },
+    {
+      "country": "Belgium",
+      "platform": "Squarespace",
+      "count": 1
+    },
+    {
+      "country": "Czech Republic",
+      "platform": "WordPress",
+      "count": 10
+    },
+    {
+      "country": "Czech Republic",
+      "platform": "Unknown",
+      "count": 3
+    },
+    {
+      "country": "Czech Republic",
+      "platform": "Squarespace",
+      "count": 3
+    },
+    {
+      "country": "Czech Republic",
+      "platform": "Joomla",
+      "count": 3
+    },
+    {
+      "country": "Czech Republic",
+      "platform": "Wix",
+      "count": 1
+    },
+    {
+      "country": "Denmark",
+      "platform": "WordPress",
+      "count": 38
+    },
+    {
+      "country": "Denmark",
+      "platform": "Unknown",
+      "count": 28
+    },
+    {
+      "country": "Denmark",
+      "platform": "Wix",
+      "count": 5
+    },
+    {
+      "country": "Denmark",
+      "platform": "Webflow",
+      "count": 3
+    },
+    {
+      "country": "Denmark",
+      "platform": "Squarespace",
+      "count": 3
+    },
+    {
+      "country": "Denmark",
+      "platform": "Ghost",
+      "count": 1
+    },
+    {
+      "country": "Finland",
+      "platform": "WordPress",
+      "count": 24
+    },
+    {
+      "country": "Finland",
+      "platform": "Unknown",
+      "count": 18
+    },
+    {
+      "country": "Finland",
+      "platform": "Wix",
+      "count": 7
+    },
+    {
+      "country": "Finland",
+      "platform": "Squarespace",
+      "count": 2
+    },
+    {
+      "country": "Finland",
+      "platform": "HubSpot CMS",
+      "count": 1
+    },
+    {
+      "country": "France",
+      "platform": "Unknown",
+      "count": 732
+    },
+    {
+      "country": "France",
+      "platform": "WordPress",
+      "count": 726
+    },
+    {
+      "country": "France",
+      "platform": "Wix",
+      "count": 133
+    },
+    {
+      "country": "France",
+      "platform": "Joomla",
+      "count": 41
+    },
+    {
+      "country": "France",
+      "platform": "Squarespace",
+      "count": 20
+    },
+    {
+      "country": "France",
+      "platform": "Drupal",
+      "count": 7
+    },
+    {
+      "country": "France",
+      "platform": "Gatsby",
+      "count": 4
+    },
+    {
+      "country": "France",
+      "platform": "Next.js",
+      "count": 4
+    },
+    {
+      "country": "France",
+      "platform": "Webflow",
+      "count": 2
+    },
+    {
+      "country": "France",
+      "platform": "Framer",
+      "count": 1
+    },
+    {
+      "country": "France",
+      "platform": "Nuxt",
+      "count": 1
+    },
+    {
+      "country": "France",
+      "platform": "Shopify",
+      "count": 1
+    },
+    {
+      "country": "France",
+      "platform": "Subsplash",
+      "count": 1
+    },
+    {
+      "country": "France",
+      "platform": "Ekklesia",
+      "count": 1
+    },
+    {
+      "country": "Germany",
+      "platform": "WordPress",
+      "count": 1046
+    },
+    {
+      "country": "Germany",
+      "platform": "Unknown",
+      "count": 776
+    },
+    {
+      "country": "Germany",
+      "platform": "Joomla",
+      "count": 179
+    },
+    {
+      "country": "Germany",
+      "platform": "Wix",
+      "count": 108
+    },
+    {
+      "country": "Germany",
+      "platform": "Squarespace",
+      "count": 33
+    },
+    {
+      "country": "Germany",
+      "platform": "Webflow",
+      "count": 17
+    },
+    {
+      "country": "Germany",
+      "platform": "Drupal",
+      "count": 14
+    },
+    {
+      "country": "Germany",
+      "platform": "Nuxt",
+      "count": 6
+    },
+    {
+      "country": "Germany",
+      "platform": "Next.js",
+      "count": 5
+    },
+    {
+      "country": "Germany",
+      "platform": "Framer",
+      "count": 3
+    },
+    {
+      "country": "Germany",
+      "platform": "HubSpot CMS",
+      "count": 1
+    },
+    {
+      "country": "Germany",
+      "platform": "Planningcenter",
+      "count": 1
+    },
+    {
+      "country": "Germany",
+      "platform": "Ekklesia",
+      "count": 1
+    },
+    {
+      "country": "Greece",
+      "platform": "Unknown",
+      "count": 9
+    },
+    {
+      "country": "Greece",
+      "platform": "Wix",
+      "count": 5
+    },
+    {
+      "country": "Greece",
+      "platform": "Squarespace",
+      "count": 4
+    },
+    {
+      "country": "Greece",
+      "platform": "Subsplash",
+      "count": 2
+    },
+    {
+      "country": "Greece",
+      "platform": "WordPress",
+      "count": 1
+    },
+    {
+      "country": "Hungary",
+      "platform": "Unknown",
+      "count": 10
+    },
+    {
+      "country": "Hungary",
+      "platform": "WordPress",
+      "count": 5
+    },
+    {
+      "country": "Hungary",
+      "platform": "Subsplash",
+      "count": 2
+    },
+    {
+      "country": "Ireland",
+      "platform": "WordPress",
+      "count": 13
+    },
+    {
+      "country": "Ireland",
+      "platform": "Unknown",
+      "count": 10
+    },
+    {
+      "country": "Ireland",
+      "platform": "Wix",
+      "count": 3
+    },
+    {
+      "country": "Ireland",
+      "platform": "Squarespace",
+      "count": 3
+    },
+    {
+      "country": "Ireland",
+      "platform": "Subsplash",
+      "count": 1
+    },
+    {
+      "country": "Ireland",
+      "platform": "Ekklesia",
+      "count": 1
+    },
+    {
+      "country": "Ireland",
+      "platform": "Next.js",
+      "count": 1
+    },
+    {
+      "country": "Italy",
+      "platform": "WordPress",
+      "count": 61
+    },
+    {
+      "country": "Italy",
+      "platform": "Unknown",
+      "count": 25
+    },
+    {
+      "country": "Italy",
+      "platform": "Squarespace",
+      "count": 6
+    },
+    {
+      "country": "Italy",
+      "platform": "Joomla",
+      "count": 4
+    },
+    {
+      "country": "Italy",
+      "platform": "Wix",
+      "count": 2
+    },
+    {
+      "country": "Netherlands",
+      "platform": "WordPress",
+      "count": 43
+    },
+    {
+      "country": "Netherlands",
+      "platform": "Unknown",
+      "count": 12
+    },
+    {
+      "country": "Netherlands",
+      "platform": "Wix",
+      "count": 5
+    },
+    {
+      "country": "Netherlands",
+      "platform": "Squarespace",
+      "count": 3
+    },
+    {
+      "country": "Netherlands",
+      "platform": "Joomla",
+      "count": 1
+    },
+    {
+      "country": "Norway",
+      "platform": "Unknown",
+      "count": 125
+    },
+    {
+      "country": "Norway",
+      "platform": "WordPress",
+      "count": 75
+    },
+    {
+      "country": "Norway",
+      "platform": "Wix",
+      "count": 24
+    },
+    {
+      "country": "Norway",
+      "platform": "Webflow",
+      "count": 16
+    },
+    {
+      "country": "Norway",
+      "platform": "Squarespace",
+      "count": 13
+    },
+    {
+      "country": "Norway",
+      "platform": "Next.js",
+      "count": 5
+    },
+    {
+      "country": "Norway",
+      "platform": "Joomla",
+      "count": 1
+    },
+    {
+      "country": "Norway",
+      "platform": "Framer",
+      "count": 1
+    },
+    {
+      "country": "Norway",
+      "platform": "Drupal",
+      "count": 1
+    },
+    {
+      "country": "Norway",
+      "platform": "Planningcenter",
+      "count": 1
+    },
+    {
+      "country": "Poland",
+      "platform": "WordPress",
+      "count": 14
+    },
+    {
+      "country": "Poland",
+      "platform": "Unknown",
+      "count": 8
+    },
+    {
+      "country": "Poland",
+      "platform": "Squarespace",
+      "count": 7
+    },
+    {
+      "country": "Poland",
+      "platform": "Wix",
+      "count": 6
+    },
+    {
+      "country": "Poland",
+      "platform": "Next.js",
+      "count": 2
+    },
+    {
+      "country": "Portugal",
+      "platform": "Unknown",
+      "count": 8
+    },
+    {
+      "country": "Portugal",
+      "platform": "WordPress",
+      "count": 5
+    },
+    {
+      "country": "Portugal",
+      "platform": "Wix",
+      "count": 1
+    },
+    {
+      "country": "Spain",
+      "platform": "WordPress",
+      "count": 422
+    },
+    {
+      "country": "Spain",
+      "platform": "Unknown",
+      "count": 402
+    },
+    {
+      "country": "Spain",
+      "platform": "Wix",
+      "count": 47
+    },
+    {
+      "country": "Spain",
+      "platform": "Next.js",
+      "count": 12
+    },
+    {
+      "country": "Spain",
+      "platform": "Joomla",
+      "count": 8
+    },
+    {
+      "country": "Spain",
+      "platform": "Squarespace",
+      "count": 7
+    },
+    {
+      "country": "Spain",
+      "platform": "Gatsby",
+      "count": 2
+    },
+    {
+      "country": "Spain",
+      "platform": "Nuxt",
+      "count": 2
+    },
+    {
+      "country": "Spain",
+      "platform": "Drupal",
+      "count": 2
+    },
+    {
+      "country": "Spain",
+      "platform": "Webflow",
+      "count": 2
+    },
+    {
+      "country": "Spain",
+      "platform": "Subsplash",
+      "count": 1
+    },
+    {
+      "country": "Sweden",
+      "platform": "WordPress",
+      "count": 426
+    },
+    {
+      "country": "Sweden",
+      "platform": "Unknown",
+      "count": 334
+    },
+    {
+      "country": "Sweden",
+      "platform": "Wix",
+      "count": 39
+    },
+    {
+      "country": "Sweden",
+      "platform": "Squarespace",
+      "count": 28
+    },
+    {
+      "country": "Sweden",
+      "platform": "Joomla",
+      "count": 9
+    },
+    {
+      "country": "Sweden",
+      "platform": "Drupal",
+      "count": 5
+    },
+    {
+      "country": "Sweden",
+      "platform": "Webflow",
+      "count": 4
+    },
+    {
+      "country": "Sweden",
+      "platform": "Next.js",
+      "count": 3
+    },
+    {
+      "country": "Sweden",
+      "platform": "HubSpot CMS",
+      "count": 1
+    },
+    {
+      "country": "Sweden",
+      "platform": "Gatsby",
+      "count": 1
+    },
+    {
+      "country": "Switzerland",
+      "platform": "WordPress",
+      "count": 170
+    },
+    {
+      "country": "Switzerland",
+      "platform": "Unknown",
+      "count": 91
+    },
+    {
+      "country": "Switzerland",
+      "platform": "Wix",
+      "count": 24
+    },
+    {
+      "country": "Switzerland",
+      "platform": "Squarespace",
+      "count": 8
+    },
+    {
+      "country": "Switzerland",
+      "platform": "Joomla",
+      "count": 6
+    },
+    {
+      "country": "Switzerland",
+      "platform": "Drupal",
+      "count": 4
+    },
+    {
+      "country": "Switzerland",
+      "platform": "Webflow",
+      "count": 2
+    },
+    {
+      "country": "Switzerland",
+      "platform": "Planningcenter",
+      "count": 1
+    },
+    {
+      "country": "Switzerland",
+      "platform": "Next.js",
+      "count": 1
+    },
+    {
+      "country": "United Kingdom",
+      "platform": "Unknown",
+      "count": 504
+    },
+    {
+      "country": "United Kingdom",
+      "platform": "WordPress",
+      "count": 493
+    },
+    {
+      "country": "United Kingdom",
+      "platform": "Squarespace",
+      "count": 225
+    },
+    {
+      "country": "United Kingdom",
+      "platform": "Wix",
+      "count": 158
+    },
+    {
+      "country": "United Kingdom",
+      "platform": "Drupal",
+      "count": 71
+    },
+    {
+      "country": "United Kingdom",
+      "platform": "Webflow",
+      "count": 14
+    },
+    {
+      "country": "United Kingdom",
+      "platform": "Joomla",
+      "count": 13
+    },
+    {
+      "country": "United Kingdom",
+      "platform": "Next.js",
+      "count": 11
+    },
+    {
+      "country": "United Kingdom",
+      "platform": "Subsplash",
+      "count": 2
+    },
+    {
+      "country": "United Kingdom",
+      "platform": "Nuxt",
+      "count": 2
+    },
+    {
+      "country": "United Kingdom",
+      "platform": "Ghost",
+      "count": 1
+    },
+    {
+      "country": "United Kingdom",
+      "platform": "Faithlife",
+      "count": 1
+    },
+    {
+      "country": "United Kingdom",
+      "platform": "Planningcenter",
+      "count": 1
+    }
+  ]
+}
