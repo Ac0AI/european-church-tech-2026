@@ -1,8 +1,12 @@
 # European Church Tech 2026 — Open Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19882722.svg)](https://doi.org/10.5281/zenodo.19882722)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 Country-level and platform-by-country measurements of digital adoption across **12,624 evangelical and Protestant churches** in 19 European countries. Observed-data methodology — every coverage rate is derived from publicly observable signals about each church's web presence. We did not survey.
 
 **Companion report:** https://gospelchannel.com/european-church-tech-2026
+**Citable DOI:** [10.5281/zenodo.19882722](https://doi.org/10.5281/zenodo.19882722)
 
 ## What's in here
 
@@ -50,16 +54,18 @@ The full report at https://gospelchannel.com/european-church-tech-2026 explains 
 ## How to cite
 
 Plain text:
-> *European Church Tech 2026: an observed-data dataset on digital adoption across 12,624 European churches.* GospelChannel, 2026. https://gospelchannel.com/european-church-tech-2026
+> *European Church Tech 2026: an observed-data dataset on digital adoption across 12,624 European churches.* GospelChannel, 2026. doi:[10.5281/zenodo.19882722](https://doi.org/10.5281/zenodo.19882722). https://gospelchannel.com/european-church-tech-2026
 
 BibTeX:
 ```bibtex
 @dataset{gospelchannel_ect2026,
-  title  = {European Church Tech 2026: an observed-data dataset on digital adoption across 12,624 European churches},
-  author = {GospelChannel},
-  year   = {2026},
-  url    = {https://gospelchannel.com/european-church-tech-2026},
-  note   = {CC-BY-4.0}
+  title     = {European Church Tech 2026: an observed-data dataset on digital adoption across 12,624 European churches},
+  author    = {GospelChannel},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.19882722},
+  url       = {https://gospelchannel.com/european-church-tech-2026},
+  note      = {CC-BY-4.0}
 }
 ```
 
@@ -113,9 +119,8 @@ See [`FAQ.md`](FAQ.md) for answers to:
 
 This dataset is also published on:
 
+- **Zenodo (citable DOI):** https://doi.org/10.5281/zenodo.19882722
 - **Kaggle:** https://www.kaggle.com/datasets/gospelchannel/european-church-tech-2026-observed-data
-
-(Zenodo with DOI + Hugging Face mirrors coming.)
 
 ## Acknowledgements
 

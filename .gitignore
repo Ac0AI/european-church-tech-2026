@@ -1,0 +1,11 @@
+# Local tooling state
+.gstack/
+
+# Kaggle staging — flat layout regenerated from these files
+.kaggle-stage/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Kaggle CLI side-files
+notebooks/kernel-metadata.json

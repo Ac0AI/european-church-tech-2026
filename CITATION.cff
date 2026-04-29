@@ -6,6 +6,11 @@ authors:
   - name: "GospelChannel"
 url: "https://gospelchannel.com/european-church-tech-2026"
 repository-code: "https://github.com/gospelchannel/european-church-tech-2026"
+doi: 10.5281/zenodo.19882722
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19882722
+    description: "Zenodo deposition (canonical citable DOI)"
 license: CC-BY-4.0
 date-released: 2026-04-29
 keywords:
