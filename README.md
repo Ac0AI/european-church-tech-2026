@@ -121,6 +121,7 @@ This dataset is also published on:
 
 - **Zenodo (citable DOI):** https://doi.org/10.5281/zenodo.19882722
 - **Kaggle:** https://www.kaggle.com/datasets/gospelchannel/european-church-tech-2026-observed-data
+- **Hugging Face:** https://huggingface.co/datasets/ac0ai/european-church-tech-2026
 
 ## Acknowledgements
 
