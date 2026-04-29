@@ -67,16 +67,12 @@ BibTeX:
 
 - **No personal data.** This dataset contains zero personal identifiers. No email addresses, pastor names, congregant lists, contact phone numbers, or claim tokens. Only church-level observable signals.
 - **Public-source only.** All data is derived from publicly accessible URLs that the churches themselves publish. We respect `robots.txt`. We do not bypass authentication.
-- **Catalog inclusion.** Churches in the catalog were added via public directory imports, user suggestions, or admin curation. Any church can request removal from the catalog — see below.
+- **No identifiable churches in this dataset.** Aggregates count churches per country and per platform — no individual church can be identified from the released files. Country totals are coarse enough that no church is uniquely tagged.
 - **GDPR.** We are processing public-business contact information at the organisation level only. No natural-person data is included in the dataset.
 
-### How a church can request removal
+### Live catalog removal
 
-Either:
-1. Email **hello@gospelchannel.com** with the church name and reason for removal.
-2. Or open an issue on this repo's issue tracker.
-
-We process removal requests within 7 days. The church is removed from both the live catalog and the next dataset release.
+If you'd like a church removed from the live catalog at gospelchannel.com (which is separate from this dataset), email **hello@gospelchannel.com** with the church name. We process catalog removals within 7 days. After a removal, future versions of this dataset will reflect the lower country count.
 
 ## Why aggregates only
 

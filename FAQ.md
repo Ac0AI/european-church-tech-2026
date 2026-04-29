@@ -6,7 +6,7 @@ All data is from publicly accessible URLs that the churches themselves publish o
 
 The dataset itself contains no personal information — only church-level observable signals (URL, social presence, platform). There is no scraped HTML, no member data, no email addresses.
 
-If a church wants to be removed from the catalog or the dataset, see the removal process in the README — typical turnaround is under 7 days.
+There are no individual churches in this dataset — only aggregates per country and per platform. Removal questions about the live catalog at gospelchannel.com are handled separately; email hello@gospelchannel.com if you want a church removed from the catalog.
 
 ## What about Catholic or Orthodox churches?
 
@@ -50,7 +50,7 @@ The dataset contains zero personal data. No email addresses, pastor names, membe
 
 GDPR applies to natural persons. Church organisations as legal entities have public-business presences, which are not GDPR-restricted at the organisation level. We process no personal data in this dataset.
 
-If you spot any row that you believe contains personal information, open an issue and we'll remove it within 24 hours.
+If you spot any row in the released CSV/JSON files that you believe contains personal information, open an issue — we'll investigate within 24 hours. (The released files contain only country and platform aggregates, so this should not happen by design.)
 
 ## Can I get the per-church data — which specific churches run what?
 
